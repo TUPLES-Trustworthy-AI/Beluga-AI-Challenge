@@ -389,8 +389,8 @@ In detail, the problem state format is as follows:
 
 ## Problem Generator
 
-We provide a problem generator that the competitors can play with to generate random problems of different topologies and sizes. The evaluation problems, which we do not disclose yet, will be sampled from this simulator. The competitors are, however, free to generate their own testing problems and to look at the code of the generator which in the  [toolkit](https://github.com/TUPLES-Trustworthy-AI/beluga-challenge-tools/blob/main/README.md#problem-generator) TODO. As shown in the [diagram](#model-availability-diagramme), all the available models eventually originate from problems encoded in JSON, which can themselves be translated into (P)PDDL problems, using the scripts 
-provided by the [toolkit](https://github.com/TUPLES-Trustworthy-AI/beluga-challenge-tools/blob/main/README.md#pddl-encoding) TODO.
+We provide a problem generator that the competitors can play with to generate random problems of different topologies and sizes. The evaluation problems, which we do not disclose yet, will be sampled from this simulator. The competitors are, however, free to generate their own testing problems and to look at the code of the generator which in the  [toolkit](https://github.com/TUPLES-Trustworthy-AI/Beluga-AI-Challenge-Toolkit/blob/main-competition/README.md#problem-generator). As shown in the [diagram](#model-availability-diagramme), all the available models eventually originate from problems encoded in JSON, which can themselves be translated into (P)PDDL problems, using the scripts 
+provided by the [toolkit](https://github.com/TUPLES-Trustworthy-AI/Beluga-AI-Challenge-Toolkit/blob/main-competition/README.md#pddl-encoding).
 
 
 ## Submission Package
@@ -426,7 +426,7 @@ submission deadline.
 
 The continuous and the final evaluation stages will be based on disjoint Beluga
 instance collections. Both collections are generated following the parameter
-space described in [tool README](TODO). The final standing, in particular
+space described in [toolkit](https://github.com/TUPLES-Trustworthy-AI/Beluga-AI-Challenge-Toolkit/blob/main-competition/README.md#benchmark-distributions). The final standing, in particular
 the winner, will hence not necessarily reflect the stand of the continuous
 evaluation leader board.
 

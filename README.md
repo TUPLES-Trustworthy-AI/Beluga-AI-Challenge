@@ -15,8 +15,8 @@ In this repository you will find the necessary technical information, and instru
 
 The sub-modules link to additional repositories containing:
 
-- the challenge [toolkit](TODO)
-- training [benchmark set](TODO) 
+- the challenge [toolkit](https://github.com/TUPLES-Trustworthy-AI/Beluga-AI-Challenge-Toolkit)
+- training [benchmark set](https://github.com/TUPLES-Trustworthy-AI/Beluga-AI-Challenge-Benchmarks) 
 
 # Use Case Description
 
