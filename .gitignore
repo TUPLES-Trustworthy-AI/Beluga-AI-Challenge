@@ -1,0 +1,15 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+/test/
+.env/
+
+# Mac info
+.DS_Store
+
+# Poetry configuration
+.python-version
+poetry.lock
+pyproject.toml
