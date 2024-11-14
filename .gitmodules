@@ -1,0 +1,6 @@
+[submodule "toolkit"]
+	path = toolkit
+	url = git@github.com:TUPLES-Trustworthy-AI/Beluga-AI-Challenge-Toolkit.git
+[submodule "benchmarks"]
+	path = benchmarks
+	url = git@github.com:TUPLES-Trustworthy-AI/Beluga-AI-Challenge-Benchmarks.git
